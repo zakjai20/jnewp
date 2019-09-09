@@ -1,0 +1,23 @@
+{
+  "name": "jnewp",
+  "version": "1.0.0",
+  "description": "create first folders and files for node projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "create",
+    "create project"
+  ],
+  "author": "JZ",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakjai20/jnewp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zakjai20/jnewp/issues"
+  },
+  "homepage": "https://github.com/zakjai20/jnewp#readme"
+}
